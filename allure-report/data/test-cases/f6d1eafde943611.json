@@ -1,0 +1,58 @@
+{
+  "uid" : "f6d1eafde943611",
+  "name" : "should allow access with correct creds",
+  "fullName" : "login form.should allow access with correct creds",
+  "historyId" : "d6633b3c779d78846d88a91045719719",
+  "time" : {
+    "start" : 1571821899104,
+    "stop" : 1571821899777,
+    "duration" : 673
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "login form"
+  }, {
+    "name" : "testClass",
+    "value" : "login form"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow access with correct creds"
+  }, {
+    "name" : "package",
+    "value" : "login form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6d1eafde943611.json",
+  "parameterValues" : [ "chrome" ]
+}

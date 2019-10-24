@@ -1,0 +1,52 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "webdriver.io page",
+    "children" : [ {
+      "name" : "should have the right title",
+      "uid" : "5b1cd8e43bafd22d",
+      "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571821897089,
+        "stop" : 1571821898428,
+        "duration" : 1339
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "webdriver.io page"
+  }, {
+    "name" : "login form",
+    "children" : [ {
+      "name" : "should deny access with wrong creds",
+      "uid" : "69ac1b7dc70626a4",
+      "parentUid" : "d146461eca322cf1bb8770d6b59b7101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571821897103,
+        "stop" : 1571821899103,
+        "duration" : 2000
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should allow access with correct creds",
+      "uid" : "f6d1eafde943611",
+      "parentUid" : "d146461eca322cf1bb8770d6b59b7101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571821899104,
+        "stop" : 1571821899777,
+        "duration" : 673
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "d146461eca322cf1bb8770d6b59b7101"
+  } ]
+}

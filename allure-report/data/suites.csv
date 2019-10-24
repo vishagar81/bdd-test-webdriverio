@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 23 10:11:39 BST 2019","Wed Oct 23 10:11:39 BST 2019","673","","login form","","login form","should allow access with correct creds","should allow access with correct creds",""
+"passed","Wed Oct 23 10:11:37 BST 2019","Wed Oct 23 10:11:39 BST 2019","2000","","login form","","login form","should deny access with wrong creds","should deny access with wrong creds",""
+"passed","Wed Oct 23 10:11:37 BST 2019","Wed Oct 23 10:11:38 BST 2019","1339","","webdriver.io page","","webdriver.io page","should have the right title","should have the right title",""
